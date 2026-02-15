@@ -7,6 +7,8 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="D:\Projects\led_timer"/>
+			<item value="D:\Projects\tim_interrupt"/>
 			<item value="D:\Projects\LED"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
